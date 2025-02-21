@@ -1,0 +1,30 @@
+.mural {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  margin: 1rem 0 2rem;
+}
+
+.d-flex{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  text-align: center;
+  color: #154580;
+}
+
+.sem-pensamentos {
+  text-align: center;
+  padding: 2rem 0 5rem;
+}
+
+.botao{
+  width: 13%;
+  height: 40px;
+  margin: auto;
+  border: none;
+  border-radius: 5px;
+  color: aliceblue;
+  background-color:  #154580;
+}
